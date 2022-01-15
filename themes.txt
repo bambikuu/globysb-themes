@@ -1,1 +1,2 @@
-original.json \n nighty.json
+original.json 
+nighty.json
