@@ -1,1 +1,1 @@
-original.json, nighty.json, skrvt.json
+original.json, nighty.json, skrvt.json, bambiku.json
